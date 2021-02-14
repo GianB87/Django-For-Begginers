@@ -25,7 +25,7 @@ SECRET_KEY = 'sis2#8*125vrb51k=zinpu*r)-@#mrxnqrd3rs(m2(o9but2dw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
